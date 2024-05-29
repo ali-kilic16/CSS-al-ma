@@ -1,0 +1,33 @@
+/* grfgfhfghhfghgf */
+
+
+h1, h2 {
+    color: brown;
+}
+.text-red{
+    color: rgb(146, 99, 12);
+}
+
+.fs-small{
+
+}
+
+.fs-medium{
+
+}
+
+.fs-big{
+
+}
+
+
+.center {
+    text-align: center;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
